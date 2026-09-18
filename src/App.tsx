@@ -119,7 +119,7 @@ const COURSES: Course[] = [
   },
   {
     id: 'bac-first-year',
-    title: { ar: 'معلوماتية الصف الأول بكالوريا', en: 'First-Year Baccalaureate ICT' },
+    title: { ar: 'الصف الأول بكالوريا', en: 'First-Year Baccalaureate ICT' },
     description: {
       ar: 'مراجعة مبسطة ومتكاملة لمفاهيم المعلوماتية والبرمجة المقررة في الصف الأول بكالوريا مع تمارين تطبيقية.',
       en: 'A clear, complete review of first-year baccalaureate ICT and programming concepts with practical exercises.',
@@ -138,7 +138,7 @@ const COURSES: Course[] = [
   },
   {
     id: 'bac-second-year',
-    title: { ar: 'معلوماتية الصف الثاني بكالوريا', en: 'Second-Year Baccalaureate ICT' },
+    title: { ar: 'الصف الثاني بكالوريا', en: 'Second-Year Baccalaureate ICT' },
     description: {
       ar: 'تحضير مركز للصف الثاني بكالوريا يجمع بين فهم الدروس والتدريب على حل مسائل الامتحانات بثقة.',
       en: 'Focused second-year baccalaureate preparation combining lesson mastery with confident exam practice.',
